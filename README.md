@@ -1,4 +1,4 @@
-# Nigeria Economic TrendS Dashboard
+# Nigeria Economic Trend Dashboard
 An interactive streamlit dashboard that visualizes key economic indicators of Nigeria using World Bank data.
 This project helps analyze long term trends such as GDP growth, inflation, population and energy use.
 
@@ -20,3 +20,4 @@ Features
   - Matplotlib
   - Seaborn
   - OpenPyXL
+
